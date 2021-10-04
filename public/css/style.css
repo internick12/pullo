@@ -267,7 +267,7 @@ button {
 	width: 100%;
 	float: left;
 	font-size: 30pt;
-	color: #db5660;
+	color: #fa28d5;
 }
 
 .mens_text{
@@ -289,7 +289,7 @@ button {
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color: #fa28d5;
 	color: #ffffff;
 	font-size: 16pt;
  }
@@ -298,8 +298,8 @@ button {
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ffffff;
-	color: #ff4e5b;
+	background-color: #2828fa;
+	color: #ffffff;
 	font-size: 16pt;
 	margin-left: 25px;
  }
@@ -468,7 +468,7 @@ body{
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color: #fa28d5;
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -494,7 +494,17 @@ body{
     text-align: center; 
     font-weight: bold; 
     font-size: 40px; 
-    background-color: #db5660;
+    background-color: #fa28d5;
+    padding: 30px 0px;  
+}
+.collection_text1{ 
+    width: 100%; 
+    float: left; 
+    color: #ffffff; 
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 40px; 
+    background-color: #2828fa;
     padding: 30px 0px;  
 }
 
@@ -510,7 +520,7 @@ body{
 	width: 100%;
 	float: left;
 	font-size: 45pt;
-	color: #ed2540;
+	color: #2828fa;
 	line-height: 75px;
 
 }
@@ -519,7 +529,7 @@ body{
 	width: 50%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ff4e5b;
+	background-color: #2828fa;
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -528,7 +538,9 @@ body{
 .gallery_section{
 	width: 100%;
 	float: left;
-	background-color: #ff4e5b;
+    background: #314755;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #26a0da, #314755);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #26a0da, #314755); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 	height: auto;
 
 }
@@ -634,7 +646,7 @@ body{
     text-align: center;
 }
 .main_bt {
-    background: #ff4e5b;
+    background: #fa28d5;
     border: none;
     width: 170px;
     height: 58px;
@@ -747,7 +759,7 @@ a:hover {
     color: #ffffff;
     text-align: center;
     padding: 10px 0px;
-    background-color: #ff4e5b;
+    background-color: #fa28d5;
     font-family: Poppins;
 }
 
